@@ -1,0 +1,10 @@
+{
+    "waitlist": [],
+    "features": [
+        {"id": 1, "name": "Dark Mode", "votes": 0},
+        {"id": 2, "name": "API Access", "votes": 0},
+        {"id": 3, "name": "Mobile App", "votes": 0},
+        {"id": 4, "name": "Analytics Dashboard", "votes": 0}
+    ],
+    "votes": []
+}
